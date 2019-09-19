@@ -1,0 +1,10 @@
+E:\Altres arxius\Programació\C#\30 - POO IV. Constructores\POO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\30 - POO IV. Constructores\POO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\30 - POO IV. Constructores\POO\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\30 - POO IV. Constructores\POO\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\30 - POO IV. Constructores\POO\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\31 - POO V. Getters y Setters\POO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\31 - POO V. Getters y Setters\POO\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\31 - POO V. Getters y Setters\POO\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\31 - POO V. Getters y Setters\POO\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\31 - POO V. Getters y Setters\POO\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+E:\Altres arxius\Programació\C#\24 - Excepciones III. Conflictos varias excepciones, captura con filtros\Excepciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\24 - Excepciones III. Conflictos varias excepciones, captura con filtros\Excepciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\24 - Excepciones III. Conflictos varias excepciones, captura con filtros\Excepciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\24 - Excepciones III. Conflictos varias excepciones, captura con filtros\Excepciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\24 - Excepciones III. Conflictos varias excepciones, captura con filtros\Excepciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

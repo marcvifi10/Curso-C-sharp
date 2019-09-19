@@ -1,0 +1,6 @@
+E:\Altres arxius\Programació\C#\4 - Sintaxis básica II\Sintaxis básica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\4 - Sintaxis básica II\Sintaxis básica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\4 - Sintaxis básica II\Sintaxis básica\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\4 - Sintaxis básica II\Sintaxis básica\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\4 - Sintaxis básica II\Sintaxis básica\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\4 - Sintaxis básica II\Sintaxis básica\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
