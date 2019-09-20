@@ -1,0 +1,34 @@
+E:\Altres arxius\Programació\C#\42 - Herencia II. Sintaxis y clase Object\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\42 - Herencia II. Sintaxis y clase Object\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\42 - Herencia II. Sintaxis y clase Object\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\42 - Herencia II. Sintaxis y clase Object\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\42 - Herencia II. Sintaxis y clase Object\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\42 - Herencia II. Sintaxis y clase Object\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\43 - Herencia III. Constructores y base\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\43 - Herencia III. Constructores y base\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\43 - Herencia III. Constructores y base\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\43 - Herencia III. Constructores y base\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\43 - Herencia III. Constructores y base\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\43 - Herencia III. Constructores y base\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\44 - Herencia IV. Principio de sustitución\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\44 - Herencia IV. Principio de sustitución\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\44 - Herencia IV. Principio de sustitución\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\44 - Herencia IV. Principio de sustitución\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\44 - Herencia IV. Principio de sustitución\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\44 - Herencia IV. Principio de sustitución\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\45 - Herencia V. Polimorfismo\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\45 - Herencia V. Polimorfismo\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\45 - Herencia V. Polimorfismo\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\45 - Herencia V. Polimorfismo\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\45 - Herencia V. Polimorfismo\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\45 - Herencia V. Polimorfismo\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\46 - Herencia VI. Modificador de acceso Protected\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\46 - Herencia VI. Modificador de acceso Protected\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\46 - Herencia VI. Modificador de acceso Protected\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\48 - Interfaces I\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\48 - Interfaces I\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\48 - Interfaces I\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\48 - Interfaces I\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\49 - Interfaces II\Herencia\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\49 - Interfaces II\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\49 - Interfaces II\Herencia\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
