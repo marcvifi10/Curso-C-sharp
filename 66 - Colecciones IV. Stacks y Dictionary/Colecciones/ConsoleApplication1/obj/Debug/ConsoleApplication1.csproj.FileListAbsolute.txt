@@ -1,0 +1,24 @@
+E:\Altres arxius\Programació\C#\63 - Colecciones I\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\63 - Colecciones I\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\63 - Colecciones I\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\63 - Colecciones I\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\63 - Colecciones I\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\63 - Colecciones I\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\64 - Colecciones II LinkedList\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\64 - Colecciones II LinkedList\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\64 - Colecciones II LinkedList\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\64 - Colecciones II LinkedList\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\64 - Colecciones II LinkedList\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\64 - Colecciones II LinkedList\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\65 - Colecciones III. Queue colas\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\65 - Colecciones III. Queue colas\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\65 - Colecciones III. Queue colas\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\65 - Colecciones III. Queue colas\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\65 - Colecciones III. Queue colas\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\65 - Colecciones III. Queue colas\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Altres arxius\Programació\C#\66 - Colecciones IV. Stacks y Dictionary\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Altres arxius\Programació\C#\66 - Colecciones IV. Stacks y Dictionary\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\66 - Colecciones IV. Stacks y Dictionary\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\66 - Colecciones IV. Stacks y Dictionary\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Altres arxius\Programació\C#\66 - Colecciones IV. Stacks y Dictionary\Colecciones\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Altres arxius\Programació\C#\66 - Colecciones IV. Stacks y Dictionary\Colecciones\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
